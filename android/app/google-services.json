@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "425547523137",
+    "project_id": "veekshanam-9a8eb",
+    "storage_bucket": "veekshanam-9a8eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425547523137:android:1bc8c91a18fbcd8cd6d2c0",
+        "android_client_info": {
+          "package_name": "com.mzadcom.veekshanam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Dcc7u9TKRnZvK4fWsqNK6BzEN1LhdUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-3949208513987489~7854288765"
+    }
+  ],
+  "configuration_version": "1"
+}
+
